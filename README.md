@@ -1,8 +1,8 @@
-# dateformatting
+# dateformatter
 
 We usually met many dates user input manually, it is hard for program processing. This library used for unify it to ISO 8601 Standard format [YYYY-mm-dd](https://en.wikipedia.org/wiki/ISO_8601).
 
-dateformatting is written by Scala and using regular expression to distinguish those formats. There were a large number of date examples in test folder.
+dateformatter is written by Scala and using regular expression to distinguish those formats. There were a large number of date examples in test folder.
 
 ## Configurations
 Before test, working directory should be set to project root folder.
